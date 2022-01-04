@@ -3,7 +3,7 @@
     
 <h2 align="center"><img align="center" height="80px" width="75px" src="Gifs/gif3.gif"/><i>I am here to Learn </i> 🙂  <i> && Contribute</i>🌱</h3><br>
 <div align="center">
-        <img src="Gifs/giphy.gif">
+        &nbsp;<img src="Gifs/giphy.gif">
 </div>
 <p>
         <h1 align="center"><img width="50px"src="Gifs/star.gif">About Me<img width="50px"src="Gifs/star.gif"></h1>
@@ -26,20 +26,37 @@
 - 📊 **MongoDb**.
 </p>
 <p>
-        <h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif">Connect with me</h1>
+       <h1 align="center"><img width="50px"src="eye.gif">Stats</h>
+       
+</p> 
+<p>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mansi2024&count_private=true&show_icons=true&theme=algolia">
+</div>
+<div align="center">
+        <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=mansi2024&theme=dracula&bg_color=000000&hide_border=true">
+</div>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi2024&show_icons=true&layout=compact&theme=algolia">
+</div>
+</p>
+
+
+<h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif">Connect with me</h1>
         
 <p align = "center">
 <a href="#">
-      <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />
+      <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />&nbsp;
  </a>
 <a href="mailto:mansistartup2024@gmail.com">
-      <img align="center" alt="@mail" width="22px" src="handles/gmail.svg" />
+      <img align="center" alt="@mail" width="22px" src="gmail.svg" />&nbsp;
 </a>
    
 <a href="#">
-      <img align="center" alt="@Insta" width="22px" src="handles/instagram.svg" />
+      <img align="center" alt="@Insta" width="22px" src="instagram.svg" />&nbsp;
 </a>
 </p>
+
 
   
 
