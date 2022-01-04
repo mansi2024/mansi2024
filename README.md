@@ -17,26 +17,24 @@
 </p>
 
 <p>
-        <h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies(<i>I have worked with</i>)</h1>
+    <h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies(<i>I have worked with</i>)</h1>
 </p>
 <p>
         <h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif">Connect with me</h1>
+        
+<p align = "center">
+<a href="#">
+      <img align="center" alt="@Linkedln" width="22px" src="handles/linkedin.svg" />
+ </a>
+<a href="mailto:mansistartup2024@gmail.com">
+      <img align="center" alt="@mail" width="22px" src="handles/gmail.svg" />
+</a>
+   
+<a href="#">
+      <img align="center" alt="@Insta" width="22px" src="handles/instagram.svg" />
+</a>
 </p>
 
   
 
 
-<!--
-**mansi2024/mansi2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
