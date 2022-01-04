@@ -7,6 +7,13 @@
 </div>
 <p>
         <h1 align="center"><img width="50px"src="Gifs/star.gif">About Me<img width="50px"src="Gifs/star.gif"></h1>
+        
+- 🔭 I’m currently working on my **Web development and Problem Solving skills(DSA)**.
+- 🌱 I’m currently pursuing my **Btech** degree in **Computer Science**.
+- 🤔 I love to design website **UX|UI**.
+- 😄 I love reading books on **self growth**.(reading habit helps me in development as 🙂I need to read many docs during development)
+- ⚡ I believe that **Innovation is a must for humans survival and growth**.
+
 </p>
 
 <p>
