@@ -30,7 +30,7 @@
         
 <p align = "center">
 <a href="#">
-      <img align="center" alt="@Linkedln" width="22px" src="handles/linkedin.svg" />
+      <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />
  </a>
 <a href="mailto:mansistartup2024@gmail.com">
       <img align="center" alt="@mail" width="22px" src="handles/gmail.svg" />
