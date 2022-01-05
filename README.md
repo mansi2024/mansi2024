@@ -37,7 +37,7 @@
         <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=mansi2024&theme=dracula&bg_color=000000&hide_border=true">
 </div>
 <div>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=mansi2024&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01" />
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=mansi2024&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01"/>
 </div>
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi2024&show_icons=true&layout=compact&theme=algolia">
