@@ -1,7 +1,7 @@
 <h1 align="center"><img width="45px"src="Gifs/Hi.gif"><b>Hello.World</b>
        {<img align="center" height="50px" width="50px"src="Gifs/Background.gif">}</h1>
     
-<h2 align="center"><img align="center" height="80px" width="75px" src="Gifs/gif3.gif"/><i>I am here to Learn </i> 🙂  <i> && Contribute</i>🌱</h3><br>
+<h2 align="center"><img align="center" height="80px" width="75px" src="Gifs/gif3.gif"/>I am here to Learn 🙂 && Contribute🌱</h3><br>
 <div align="center">
         &nbsp;<img src="Gifs/giphy.gif">
 </div>
