@@ -8,7 +8,7 @@
 <p>
         <h1 align="center"><img width="50px"src="Gifs/star.gif">About Me<img width="50px"src="Gifs/star.gif"></h1>
         
-- ☀️ I’m currently working on my **Web development and Problem Solving skills(DSA)**.
+- 🌈 I’m currently working on my **Web development and Problem Solving skills(DSA)**.
 - 🌱 I’m currently pursuing my **Btech** degree in **Computer Science**.
 - 💗 I love to design website **UX|UI**.
 - 📄 I love reading books on **self growth**.(reading habit helps me in development as 🙂I need to read many docs during development)
@@ -18,7 +18,7 @@
 
 <p>
 
-<h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies<br><sub>**💻&nbsp;🌱(I have worked with)**</sub></h1>
+<h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies<br><sub>💻&nbsp;🌱(I have worked with)</sub></h1>
 
 
     
