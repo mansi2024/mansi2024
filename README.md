@@ -17,7 +17,8 @@
 </p>
 
 <p>
-    <h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies(<i>I have worked with</i>)</h1>
+    <h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies</h1>
+    <p align="center">I have worked with</p>
     
 - 💻 **HTML| CSS | JavaSricpt**.
 - 🔧 **C | C++**.
