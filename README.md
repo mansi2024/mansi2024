@@ -18,7 +18,8 @@
 
 <p>
 
-<h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies(I have worked with)</h1>
+<h1 align="center"><img width="50px"src="Gifs/Computer.gif">Technologies<br><sub>💻&nbsp;🌱(I have worked with)</sub></h1>
+
 
     
 - 💻 **HTML| CSS | JavaSricpt**.
@@ -35,15 +36,19 @@
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=mansi2024&count_private=true&show_icons=true&theme=algolia">
 </div>
+<hr>
 <div align="center">
         <img src="https://lostgirljourney-on-github.herokuapp.com/graph?username=mansi2024&theme=dracula&bg_color=000000&hide_border=true">
 </div>
+<hr>
 <div>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=mansi2024&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" alt="Abhijeet-Anand-01"/>
 </div>
+<hr>
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi2024&show_icons=true&layout=compact&theme=algolia">
 </div>
+<hr>
 </p>
 
 
@@ -52,7 +57,7 @@
 <p align = "center">
 <a href="#">
       <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />&nbsp;
- </a>
+ </a>&nbsp;
 <a href="mailto:mansistartup2024@gmail.com">
       <img align="center" alt="@mail" width="22px" src="gmail.svg" />&nbsp;
 </a>
