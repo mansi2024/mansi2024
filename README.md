@@ -65,7 +65,7 @@
 </a>
 <a href="#">
       <img align="center" alt="@mail" width="22px" src="instagram.svg" />&nbsp;
-</a>
+</a>&nbsp;
    
 
 </p>
