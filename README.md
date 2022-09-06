@@ -57,11 +57,14 @@
 <h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif">Connect with me</h1>
         
 <p align = "center">
-<a href="#">
+<a href="https://www.linkedin.com/in/mansi2020/">
       <img align="center" alt="@Linkedln" width="22px" src="linkedin.svg" />&nbsp;
  </a>&nbsp;
 <a href="mailto:mansistartup2024@gmail.com">
       <img align="center" alt="@mail" width="22px" src="gmail.svg" />&nbsp;
+</a>
+<a href="#">
+      <img align="center" alt="@mail" width="22px" src="instagram.svg" />&nbsp;
 </a>
    
 
