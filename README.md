@@ -52,9 +52,6 @@
 </div>
 <hr>
 </p>
-
-
-<h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif">Connect with me</h1>
         
 
 
