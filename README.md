@@ -1,4 +1,3 @@
-
 <h1 align="center"><img height="50px" width="50px"src="Gifs/Hi.gif"><b>Hello.World</b>
        {<img align="center" height="50px" width="50px"src="Gifs/Background.gif">}</h1>
     
