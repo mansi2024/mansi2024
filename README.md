@@ -14,7 +14,7 @@
 - 🌱 I’m currently pursuing my **Btech** degree in **Computer Science**.
 - 💗 I love to design website **UX|UI**.
 - 📄 I love reading books on **self growth**.(reading habit helps me in development as 🙂I need to read many docs during development)
-- ⚡ I believe that **Innovation is a must for humans survival and growth**.
+- ⚡ I believe that **Innovation is necessary for human survival and growth**.
 
 </p>
 
@@ -50,7 +50,6 @@
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi2024&show_icons=true&layout=compact&theme=algolia">
 </div>
-<hr>
 </p>
         
 
