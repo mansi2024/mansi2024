@@ -1,10 +1,10 @@
 ### Hi there 👋, Mansi this side!
+### I am into Full Stack Web Development.<br>
 
-### I am into Full Stack Web Development.
 I am currently learning and working on **Web dev projects.**
 My Day starts with learning, and implementing **Algorithms** and ends with working on **Web dev** projects.
 
-- 🟡I am a Full-Stack Web Developer. 
+- 🟡I am a **Full-Stack Web Developer**. 
 - 🟡I love Programming, Building, and creating projects. 
 - 🟡I’m looking to collaborate, I am always open to work on some cool projects and build the next great product together. 
 - 🟡Ask me about Web development and Algorithms.
