@@ -1,5 +1,5 @@
 ### Hi there 👋, Mansi this side!
-### I am into Full Stack Web Development.<br>
+### I am into Full Stack Web Development/Software Development.<br>
 
 I am currently learning and working on **Web dev projects.**
 My Day starts with learning, and implementing **Algorithms** and ends with working on **Web dev** projects.
